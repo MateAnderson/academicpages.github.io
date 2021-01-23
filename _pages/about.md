@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Topic-based sentiment analysis of Amazon reviews"
+title: "Topic-based sentiment analysis of Amazon reviews (NLP course, Polytechnic university of Tehran)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
