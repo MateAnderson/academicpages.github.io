@@ -46,7 +46,7 @@ We go through following steps:
 
 Phase One (Finding Sentiments with textblob library and deep learning methods)  
 ------
-[textblob](https://miro.medium.com/max/2334/1*roddopPJFRjl6t1MyEzB_Q.png)
+![textblob](https://miro.medium.com/max/2334/1*roddopPJFRjl6t1MyEzB_Q.png)
 In a nut shell, TextBlob library has unsupervised methods for finding polarity and subjectivity (and etc) of a text. A lot of linguists, namely Tom De Smedt, have come together and have figured out all different aspect of words manually. Based on this great job that has done recently, we are able to estimate polarity (means sentiment score that is between -1 and +1) even better than KNN or Bayes which have expensive calculation. In our case, we have reached 0.799 percent accuracy for estimating polarity (sentiment) of reviews. We will explain this in “Evaluation of TextBlob” part.(More info about textblob for interested reader, perhaps you!, : link1 , link2)
 2.1.1) Estimating Sentiments
 
@@ -74,7 +74,7 @@ add results
 
 (add results later)
 (add results  | figure no1 | LDA result )
-[Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 Aknowledgement
 ------
