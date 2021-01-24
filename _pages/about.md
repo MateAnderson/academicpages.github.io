@@ -10,8 +10,12 @@ redirect_from:
 Introduction
 ======
 
-In this project we are going to 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+As it’s conspicuous from the title of the project we have 2 main phases. At first, we find sentiment of reviews and then we extract topics. A long the way we graph topic-based sentiment analysis of reviews and evaluate both main phases.
+We will use Textblob library and Deep learning approach for finding sentiment and we will get 80% accuracy for textblob and 50% accuracy for deep learning approach .
+
+There is no need to mention countless use cases of sentiment analysis, since we can use it for any work for finding more insightful details. 
+and for Topic extraction, we can think of it as a space-reduction function that maps document whit many words to just a few number of topics. 
+. You can download [the Jupyter notebook file with this link](https://colab.research.google.com/drive/1UBXn_B3cGYniRxN4B-GfAp3r_BQ9Z1kg#scrollTo=JVgHEc-PHPP5) and fill free to contact us for more detail: [Matthew anderson](ardestani.zm@gmail.com), [Roozbehbazargani](roozbehbazargani@gmail.com).
 
 How to setup 
 ------
