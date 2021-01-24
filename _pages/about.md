@@ -16,6 +16,7 @@ We will use Textblob library and Deep learning approach for finding sentiment an
 There is no need to mention countless use cases of sentiment analysis, since we can use it for any work for finding more insightful details. 
 and for Topic extraction, we can think of it as a space-reduction function that maps document whit many words to just a few number of topics. 
 . You can download [the Jupyter notebook file with this link](https://colab.research.google.com/drive/1UBXn_B3cGYniRxN4B-GfAp3r_BQ9Z1kg#scrollTo=JVgHEc-PHPP5) and fill free to contact us for more detail: [Matthew anderson](ardestani.zm@gmail.com), [Roozbehbazargani](roozbehbazargani@gmail.com).
+![](https://www.irangi.org/uploads/images/4_1560089256_1291127534.png?raw=true)
 
 How to setup 
 ------
