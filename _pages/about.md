@@ -74,7 +74,7 @@ add results
 
 (add results later)
 (add results  | figure no1 | LDA result )
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[Editing a markdown file for a talk](/images/editing-talk.png)
 
 Aknowledgement
 ------
